@@ -1,5 +1,5 @@
 # 💫Hello , I 'm Priyanshu Chauhan
-🎓 I'm 3rd Year Computer Engineering Student<br>🌱 I’m currently learning and growing my skills <br>       in Frontend development <br>💻 Skilled in Frontend Development<br>🤝 I’m looking for help with HTML, Advanced CSS , JavaScript<br>💬 about me I'm a quick leaner with creative problem-solving mindset<br>⚡ Fun fact Cricket , Football
+🎓 I'm 3rd Year Computer Engineering Student<br>🌱 I’m currently learning and growing my skills <br>       in Frontend development <br>💻 Skilled in Frontend Development<br>🤝 I’m looking for help with HTML, Advanced CSS , JavaScript<br>💬 about me I'm a quick leaner with creative problem-solving mindset<br>
 
 
 ## 🌐 Socials:
