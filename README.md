@@ -16,7 +16,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=PriyanshuCoder007&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+<img src='https://meme-randomizer.vercel.app' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PriyanshuCoder007&icon=6&color=3)](https://visitcount.itsvg.in)
